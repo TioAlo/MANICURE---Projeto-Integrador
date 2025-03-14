@@ -1,1 +1,57 @@
-aaaaaaaaaaaaaaaaaaa
+ * PROJETO INTEGRADOR
+    Criador: @TioAlo & @GabrielTourinho
+    Cliente Fictício: Manicure
+
+ * PRAZO: ????
+    Início: 27/02/2025
+    Término: ?????
+
+ * ESTRUTURAÇÃO DO SITE/APP
+
+    MANICURE/
+    │
+    ├── index.html              # Página principal
+    ├── about.html              # Página sobre
+    ├── contact.html            # Página de contato
+    ├── assets/                 # Imagens, fontes, e outros arquivos estáticos
+    │   ├── img/                # Imagens
+    │   │   ├── logo.png        # Exemplo de imagem
+    │   │   └── banner.jpg      # Exemplo de imagem
+    │   ├── css/                # Arquivos CSS
+    │   │   ├── styles.css      # Estilos principais
+    │   │   └── responsive.css  # Estilos responsivos
+    │   └── js/                 # Arquivos JavaScript
+    │       └── main.js         # Scripts principais
+    │
+    ├── fonts/                  # Fontes personalizadas
+    │   └── custom-font.ttf     # Exemplo de fonte personalizada
+    │
+    └── README.md               # Documento de descrição do projeto
+
+ --------------------------------------- PENDENCIA -----------------------------------------------
+   - Criar Nome
+   - Criar Logo
+   - Ajustar animações da Header ( Index.html )
+   - Adcionar Funcionalidades ( Todas as Págs )
+   - Padronizar Fontes
+ --------------------------------------- ANDAMENTO -----------------------------------------------
+ * ALTERAÇÕES GERAIS
+    - 27/02
+      Início do Projeto
+      Criação da Index.html
+      Início da inserção de códigos
+    - 28/02 
+         Index.html > Header
+
+
+ * Index.html - 27/02
+    -> 27/02
+        - Criação do Arquivo
+        - Início da construção da NavBar <header>
+    -> 28/02
+        - <header> 75%
+
+ * Login.html - 11/03
+   -> 11/03
+       - Criação do Arquivo
+       - Construção e personalização da área de Login
